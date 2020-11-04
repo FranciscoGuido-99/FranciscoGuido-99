@@ -9,7 +9,7 @@
 - Item 3
 - Item 4
 
-[Link a Google] (https://google.com)
+[Link a Google](https://google.com)
 
 <!--
 **FranciscoGuido-99/FranciscoGuido-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
