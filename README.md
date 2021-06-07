@@ -1,5 +1,5 @@
 ### ¡Hola Mundo! Mi nombre es Francisco.
-#### <Desarrollador Web/>
+#### :computer: Desarrollador Web
 
 Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos proyectos para poder seguir aprendiendo.
 
