@@ -7,14 +7,20 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 
 #### Lenguajes y tecnologías con las que he trabajado:
 
+### Front End
 
 - Javascript  
 - HTML5
 - CSS3
-- MySQL
-- React.js
-- Node.js
 - Bootstrap
+- React.js
+
+### Back End
+- Node.js
+
+### Base de datos
+- MySQL
+
 
 A continuacion les dejaré enlaces en los cuales podran conocerme un poco más:
 
