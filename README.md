@@ -5,20 +5,22 @@ Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos 
 
 Me considero una persona creativa, responsable, dedicada y con una gran predisposicion al usuario.
 
-#### Lenguajes y tecnologías con las que he trabajado:
+### Lenguajes y tecnologías con las que he trabajado:
 
-### Front End
+#### Front End
 
 - Javascript  
 - HTML5
 - CSS3
-- Bootstrap
 - React.js
 
-### Back End
+##### Librerias
+- Bootstrap
+
+#### Back End
 - Node.js
 
-### Base de datos
+#### Base de datos
 - MySQL
 
 
