@@ -1,6 +1,6 @@
 ### Hola Mundo, mi nombre es Francisco.
 #### Desarrollador Web
-#### Mi nombre es Francisco y soy Programador Full Stack 
+Inicie mis estudios en Digital House
 #### Otro subtitulo
 ##### Otro otro mini subtitulo
 
