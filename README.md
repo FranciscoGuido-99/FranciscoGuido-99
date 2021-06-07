@@ -5,7 +5,7 @@ Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos 
 
 Me considero una persona creativa, responsable, dedicada y con una gran predisposicion al usuario.
 
-### Lenguajes y tecnologías con las que he trabajado:
+### Lenguajes y tecnologías con las que he trabajado:       
 
 #### Front End
 
