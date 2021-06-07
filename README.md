@@ -3,7 +3,7 @@
 
 Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos proyectos para poder seguir aprendiendo.
 
-Me considero una persona creativa, responsable, dedicada y con una gran predisposicion al usuario.
+Soy creativo, responsable, dedicado y con una gran predisposicion al usuario.
 
 Tengo 22 años y actualmente vivo en Buenos Aires, Argentina
 
