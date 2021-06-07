@@ -20,10 +20,11 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 
 #### Back End
 - Node.js
+<br/>
 
 #### Base de datos
 - MySQL
-
+<br/>
 
 A continuacion les dejaré enlaces en los cuales podran conocerme un poco más:
 
