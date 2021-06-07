@@ -26,7 +26,7 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 - MySQL
 <br/>
 
-A continuacion les dejaré enlaces en los cuales podran conocerme un poco más:
+### A continuacion les dejaré enlaces en los cuales podran conocerme un poco más :slightly_smiling_face:
 
 - [Proyecto grupal realizado en Digital House](https://dead-fellas.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/francisco-nicolas-guido-762aab199/)
