@@ -2,7 +2,6 @@
 #### Desarrollador Web
 
 Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos proyectos para poder seguir aprendiendo.
-[P](https://google.com)
 
 Me considero una persona creativa, responsable, dedicada y con una gran predisposicion al usuario.
 
@@ -17,7 +16,10 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 - Node.js
 - Bootstrap
 
-[Proyecto grupal realizado en Digital House](https://dead-fellas.herokuapp.com/)
+A continuacion les dejaré enlaces en los cuales podran conocerme un poco más:
+
+- [Proyecto grupal realizado en Digital House](https://dead-fellas.herokuapp.com/)
+- [LinkedIn](https://www.linkedin.com/in/francisco-nicolas-guido-762aab199/)
 
 <!--
 **FranciscoGuido-99/FranciscoGuido-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
