@@ -5,7 +5,7 @@ Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos 
 
 Me considero una persona creativa, responsable, dedicada y con una gran predisposicion al usuario.
 
-Actualmente vivo en Buenos Aires, Argentina
+Tengo 22 años y actualmente vivo en Buenos Aires, Argentina
 
 
 ### Lenguajes y tecnologías con las que he trabajado:       
