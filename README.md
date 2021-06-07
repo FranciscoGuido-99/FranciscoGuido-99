@@ -1,5 +1,5 @@
-# Hola a todos! Mi nombre es Francisco y soy desarrollador Web Full Stack.
-## Un subtitulo
+## Hola Mundo, mi nombre es Francisco.
+### Desarrollador Web
 ### Mi nombre es Francisco y soy Programador Full Stack 
 #### Otro subtitulo
 ##### Otro otro mini subtitulo
