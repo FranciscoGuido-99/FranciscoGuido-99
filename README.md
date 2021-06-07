@@ -18,11 +18,11 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 - Bootstrap
 <br/>
 
-#### Back End
+#### ⚡ Back End
 - Node.js
 <br/>
 
-#### Base de datos
+#### ⚡ Base de datos
 - MySQL
 <br/>
 
