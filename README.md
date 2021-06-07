@@ -2,9 +2,9 @@
 #### Desarrollador Web
 Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos proyectos para poder seguir aprendiendo.
 
-Me considero una persona con iniciativa
+Me considero una persona creativa, responsable, dedicada y con una gran predisposicion al usuario.
 
-##### Otro otro mini subtitulo
+##### Lenguajes y tecnologías con las que he trabajado:
 
 - Item 1
 - Item 2
