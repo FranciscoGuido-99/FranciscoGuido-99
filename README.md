@@ -7,7 +7,7 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 
 ### Lenguajes y tecnologías con las que he trabajado:       
 
-#### Front End
+#### ⚡ Front End
 
 - Javascript  
 - HTML5
