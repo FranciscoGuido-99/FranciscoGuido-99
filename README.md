@@ -16,6 +16,7 @@ Me considero una persona creativa, responsable, dedicada y con una gran predispo
 
 ##### Librerias
 - Bootstrap
+<br/>
 
 #### Back End
 - Node.js
